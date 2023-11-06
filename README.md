@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Wapei Diana Wadawasina</h1>
 <h3 align="center">A Machine learning Practitioner, Healthcare fanatic, and Researcher</h3>
 
-- 🎓 I hold a bachelor of engineering degree in biomedical & electrical engineering and a diploma in electromechanical engineering technician. I have a strong interest in the human body system and in strategies to improving one's health.
+- 🎓 I hold a bachelor of engineering degree in biomedical & electrical engineering and a diploma in electromechanical engineering technician.
 
-- 🌱 I’m currently focused on mastering the art of Machine Learning and its applications.
+- 🌱 I’m currently focused on mastering programming; data structures; and the art of Machine Learning and its applications.
 
 - 📫 How to reach me **wapeiwadawasina@cmail.carleton.ca**
 
