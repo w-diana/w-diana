@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🎓 I hold a bachelor of engineering degree in biomedical & electrical engineering and a diploma in electromechanical engineering technician.
 
-- 🌱 I’m currently focused on mastering programming; data structures; and the art of Machine Learning and its applications.
+- 🌱 I’m currently focused on mastering programming; data structures; and Machine Learning and its applications.
 
 - 📫 How to reach me **wapeiwadawasina@cmail.carleton.ca**
 
